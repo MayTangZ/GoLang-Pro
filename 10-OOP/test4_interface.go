@@ -50,7 +50,7 @@ func showAnimal(animal AnimanIF) {
 
 }
 
-func main() {
+func main4() {
 	/*
 		var animal AnimanIF
 		animal = &Cat{"red"}
